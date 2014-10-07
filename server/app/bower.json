@@ -1,0 +1,13 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "authors": [
+    "Adam Hess"
+  ],
+  "description": "Fronend to check if jQuery is running on site",
+  "main": "index.html",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}

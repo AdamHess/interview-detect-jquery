@@ -1,0 +1,13 @@
+.failed {
+	color: white;
+	background-color: red
+}
+
+.success {
+	color: white;
+	background-color: green;
+}
+
+#status_container {
+	font-size: 50px
+}

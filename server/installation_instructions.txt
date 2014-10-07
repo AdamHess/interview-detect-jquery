@@ -1,0 +1,20 @@
+To get the application running you must have:
+1) Nodejs installed
+2) phantomjs installed globally with npm instal phantomjs -g  (or added to your path if you do not have root access)
+3) run "npm install" to load all the server dependancies 
+4) in the ./app directory run bower install to load fronend dependancies (or can manually configure it for loading jQuery)
+
+
+
+once everything is installed run
+
+nodejs main.js 
+
+then in your browser access
+
+localhost 
+
+and it should be ready to go 
+
+
+
